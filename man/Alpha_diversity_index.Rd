@@ -9,7 +9,7 @@ Alpha_diversity_index(x, tree = NULL, base = exp(1))
 \arguments{
 \item{x}{Community data matrix}
 
-\item{tree}{Community data matrix}
+\item{tree}{A phylo tree object}
 
 \item{base}{The logarithmic base of the formula}
 }

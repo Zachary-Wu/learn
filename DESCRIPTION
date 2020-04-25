@@ -4,8 +4,7 @@ Title: learn something about development of R package
 Version: 0.1.0
 Author: wu13
 Maintainer: wu13 <543178923@qq.com>
-Description: These functions are for use only with Yilei Wu and 
-no other people. 
+Description: These functions are for use only with Yilei Wu and no other people. 
 License: GPL - 3
 Encoding: UTF-8
 LazyData: true
