@@ -1,7 +1,7 @@
 
 #' @title Alpha_diversity_index
 #' @description The source code from the url:
-#' @description \url{http://blog.sciencenet.cn/blog-3406804-1179983.html}
+#' \url{http://blog.sciencenet.cn/blog-3406804-1179983.html}
 #' @param x Community data matrix
 #' @param tree A phylo tree object
 #' @param base The logarithmic base of the formula

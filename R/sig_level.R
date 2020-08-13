@@ -1,10 +1,11 @@
-#' sign_level
-#'
-#' @param data
+#' @title sign_level
+#' @description we want to determine the significance levels of the p-value by
+#' this function
+#' @param data matrix
 #' @param sig.level
 #' @param mark
 #'
-#' @return
+#' @return return statistical significance mark
 #' @export
 #'
 #' @examples

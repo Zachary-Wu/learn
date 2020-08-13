@@ -11,11 +11,14 @@ sign_level(
 )
 }
 \arguments{
+\item{data}{matrix}
+
 \item{mark}{}
 }
 \value{
-
+return statistical significance mark
 }
 \description{
-sign_level
+we want to determine the significance levels of the p-value by
+this function
 }

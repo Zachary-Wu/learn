@@ -20,7 +20,6 @@ goods_coverage, Pedigree diversity
 }
 \description{
 The source code from the url:
-
 \url{http://blog.sciencenet.cn/blog-3406804-1179983.html}
 }
 \examples{
